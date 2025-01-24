@@ -1,13 +1,38 @@
 # Python Task1
 1.Numbers in python
+
 2.operators in python
+
 3.List  in python
+
 4.Tuples in python
+
 5.sets in python
+
 6.Dictionaries in python
+
 7.Common python errors
 # python Task2
 1: If- else
+
 2: for loop
-3: solve using if and for loop and data types methods 
+
+3: solve using if and for loop and data types methods
+
 4: while loop
+# Task 3
+1: python function to find the max numbder from given
+
+2: python function to sum all numbers in list
+
+3.python function that takes list and returns new list with distinct elements from first list. 
+
+4.Total number of combinations
+
+5.python function for total number of combinations
+
+6.function for count vovweks and consonant
+
+7.Define function that accepts lowercase words and prints uppercase
+
+8.count lower case and uppercase letters 
