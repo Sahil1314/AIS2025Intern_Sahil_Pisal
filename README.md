@@ -31,7 +31,28 @@
 
 5.python function for total number of combinations
 
-6.function for count vovweks and consonant
+6.function for count vovels and consonant
+
+7.Define function that accepts lowercase words and prints uppercase
+
+8.count lowercase and uppercase letter
+# Task 4
+1.Introduction to Numpy
+
+2.arrays in numpy
+
+3.array operation
+
+4.Array shapes and Reshaping
+
+5.Array Manipulations
+
+6.Mathmatical functions
+
+7.Random number generation
+
+8.Brodcasting
+
 
 7.Define function that accepts lowercase words and prints uppercase
 
