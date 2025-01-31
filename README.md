@@ -53,7 +53,43 @@
 
 8.Brodcasting
 
+# Task 5 
 
-7.Define function that accepts lowercase words and prints uppercase
+Introduction:
+Pandas 
 
-8.count lower case and uppercase letters 
+Key Data Structures:
+Series: 1D labeled array.
+DataFrame: 2D labeled table.
+
+Creating Data Structures:
+pd.Series()
+pd.DataFrame()
+
+Data Operations:
+Indexing & Slicing: df['col'], df.iloc[], df.loc[]
+
+
+Data Cleaning: .isnull(), .dropna(), .fillna()
+
+Renaming: df.rename()
+Filtering: df[df['col'] > value]
+
+Aggregation and Grouping:
+GroupBy: df.groupby('col')
+Aggregation: .sum(), .mean(), .count()
+
+Merging and Joining:
+pd.merge(), df.conacat()
+
+File I/O:
+pd.read_csv(), df.to_csv(), pd.read_excel(), df.to_excel()
+
+Time Series:
+Datetime: pd.to_datetime(), .resample()
+
+Visualization:
+df.plot() for basic plotting.
+
+Condition Selection:
+And ,or
