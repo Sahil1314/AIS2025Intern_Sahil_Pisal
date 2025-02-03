@@ -93,3 +93,7 @@ df.plot() for basic plotting.
 
 Condition Selection:
 And ,or
+# Task 6
+Work on matplotlib and seanorn 
+
+Plot various plot with interpretations.
