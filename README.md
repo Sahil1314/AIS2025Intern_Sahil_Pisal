@@ -97,3 +97,19 @@ And ,or
 Work on matplotlib and seanorn 
 
 Plot various plot with interpretations.
+
+# Task 7
+Download titanic data from kaggle.com
+Or
+Import seaborn as ans
+df=sns.load_dataset(titanic)
+
+Check:
+Describe 
+Info
+Shape
+Columns
+
+Pre processing:
+Missing value handle 
+Label encoding
