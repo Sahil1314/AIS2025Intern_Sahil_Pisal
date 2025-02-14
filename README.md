@@ -113,3 +113,24 @@ Columns
 Pre processing:
 Missing value handle 
 Label encoding
+# Task 8
+pre processing
+quartile, tukeys method
+box  and whisker plot , Z score(outlier)
+standardization
+minmax scaler
+PCA
+# Task 9
+•Take iris data
+•Separate dependence and independent 
+•Train test split (80:20)
+•import naive bays 
+(GaussianNB ,bernoulliNB, MultinationalNB)
+•train the model
+•predict X test
+•check accuracy 
+
+Learn and impliment : 
+GaussianNB,  bernoulliNB, MultinationalNB
+
+UNDERSTAND theory part also,Formula  And by hand calculations.
